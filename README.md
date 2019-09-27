@@ -3,7 +3,7 @@ Image Cropper
 
 Qt Widget for cropping images.
 
-![Screenshot](http://dimkanovikov.pro/img/content/projects/image_cropper/1.png)
+![Screenshot](https://github.com/Qt-Widgets/Image-Cropper/blob/master/2.png)
 
 Using:
 -------------
